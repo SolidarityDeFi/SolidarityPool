@@ -1,0 +1,2 @@
+# SolidarityPool
+Cardano staking pool.
