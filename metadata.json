@@ -1,6 +1,6 @@
 {
   "name": "Solidarity Pool for Social Justice",
-  "description": "Single pool operator for Cardano decentralization. Social justice projects receive 25% of our node operator fees. We also reinvest 25% back into the pool pledge. ",
+  "description": "Social justice projects receive 25% of our node operator fees. An additional 25% is pledged back into the pool. Staking with SOLID helps us build dApps that combine individual returns with social change. Single pool operator for Cardano decentralization.",
   "ticker": "SOLID",
   "homepage": "https://solidarity.finance",
   "extended": "https://raw.githubusercontent.com/SolidarityDeFi/SolidarityPool/main/extended.json" 
