@@ -11,10 +11,10 @@
             "youtube_handle": "",
             "twitch_handle": "",
             "discord_handle": "",
-            "github_handle": "SolidarityFinance"
+            "github_handle": "SolidarityDeFi"
         },
         "company": {
-            "name": "Solidarity Finance",
+            "name": "Solidarity DeFi",
             "city": "Chicago",
             "country": "United States"
         },
@@ -33,14 +33,5 @@
     },
     "telegram-admin-handle": {
         "0": "jbradach"
-    },
-    "adapools_ext": {
-        "prometheus": {
-            "0": {
-                "name": "Block Central USA",
-                "type": "bp",
-                "key": "09791afe7c0a1e8581c762a22f2c71cf"
-            }
-        }
     }
 }
